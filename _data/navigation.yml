@@ -1,6 +1,31 @@
 # Site navigation links
 
-- title:
+- title: Education
+  url:
+  excerpt:
+  image:
+  
+  - title: Research
+  url:
+  excerpt:
+  image:
+  
+  - title: Publications
+  url:
+  excerpt:
+  image:
+  
+  - title: Affiliations
+  url:
+  excerpt:
+  image:
+  
+  - title: Teaching
+  url:
+  excerpt:
+  image:
+  
+  - title: Service
   url:
   excerpt:
   image:
